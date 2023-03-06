@@ -21,7 +21,7 @@ body{
     height: 100vh;
 }
 
-.container-content{
+.container{
     display: flex;
 
     border-radius: 20px;
@@ -40,7 +40,7 @@ body{
     background-image: linear-gradient(rgb(109, 89, 199) , rgb(49, 49, 247)) ;
     border-radius: 20px;
 }
-.box-result h2{
+.box-result h1{
     color: rgba(255, 255, 255, 0.507);
     margin: 2rem 0;
 }
